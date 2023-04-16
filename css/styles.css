@@ -1,0 +1,141 @@
+/**************************TAG SELECTPRS*******************/
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    text-align: center;
+}
+
+h1{
+    color: #F2D7D9;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem
+}
+
+h2{
+    color: #748DA6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+}
+
+h3{
+    color: #748DA6;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto 0 auto;
+    text-align: left;
+
+}
+
+p{
+    line-height: 2;
+}
+
+span{
+    text-decoration: underline;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 8px;
+    color: gray;
+    width: 5%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+/**************************CLASS SELECTORS*******************/
+.top-container{
+    background-color: #9CB4CC;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: #F2D7D9;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bottom-container{
+    background-color: #9CB4CC;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 100px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 150px;
+}
+
+.flower{
+    padding-top: 100px;
+    padding-bottom: 0;
+}
+
+.footer-link{
+    color: #11999e;
+}
+
+.btn{
+    color: #11999e;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.poem-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    padding-top: 5px;
+}
+
+
+
+/* contacts.html page */
+
+form{
+    margin-left: 95px;
+}
+
+ul{
+    margin-left: 75px;
+}
+
+.co-body{
+    background-color: #D3CEDF;
+    text-align: left;
+}
+
+.co-img{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.co-h1{
+    color: #748DA6;
+    font-size: 2rem;
+    margin-left: 50px;
+}
+
+.co-h3{
+    color: #748DA6;
+    margin-left: 50px;
+    font-family: 'Sacramento', cursive;
+}
